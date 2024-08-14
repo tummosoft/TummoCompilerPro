@@ -16,6 +16,6 @@ ModuleClosedNodes2=
 ModuleClosedNodes3=
 ModuleClosedNodes4=
 ModuleClosedNodes5=
-NavigationStack=ManifestRender,DOCletXML,123,0,ManifestRender,ReadJava,228,6,BuildB4A,btnDownload_Click,214,0,BuildB4A,btnBuildDoc_Click,203,0,BuildB4A,AppStart,28,0,BuildB4A,Process_Globals,21,0,BuildB4J,Class_Globals,0,0,Main,AppStart,44,0,Main,Process_Globals,27,0
+NavigationStack=ManifestRender,DOCletXML,123,0,ManifestRender,ReadJava,228,6,BuildB4A,btnDownload_Click,214,0,BuildB4A,btnBuildDoc_Click,203,0,BuildB4A,AppStart,28,0,BuildB4A,Process_Globals,21,0,BuildB4J,Class_Globals,0,0,Main,AppStart,44,0,Main,Process_Globals,19,0,Main,btnDownload_Click,238,0
 SelectedBuild=0
 VisibleModules=4,5,3,1,2

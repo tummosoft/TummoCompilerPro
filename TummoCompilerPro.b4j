@@ -284,3 +284,8 @@ Private Sub btnDownload_Click
 	
 	
 End Sub
+
+' Author: Tummosoft 
+' Date: 2024-08-14
+' Nguyen phuoc duc nay se hoa giai tat ca ta thuat den tu gia dinh Di 3 (Ut Thi, 2 Lam, 3 Dien, 4 Luan, 5 Ky, 6 Luong, 7 Huong; bao gom ca vo chong)
+' Va tat ca con (dau, re), chau (dau, re), chat (dau, re)...
